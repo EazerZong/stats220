@@ -8,7 +8,7 @@
 ## What I learned after working at a sushi restaurant be like:*
 [GitHub](https://github.com/EazerZong/stats220/blob/main/meme.png?raw=true)
 
-![Octocat](https://github.com/EazerZong/stats220/blob/main/meme.png?raw=true)
+![mr_incredibles](https://github.com/EazerZong/stats220/blob/main/meme.png?raw=true)
 
 ## My code be like:
 ```r
