@@ -1,5 +1,11 @@
  # **Meme -Difficulty of Japanese**
-## *What I learned after working at a sushi restaurant be like:*
+ ## 1. Why did I create this meme
+ * *Working in a sushi restaurant was a amazing.*
+ * *The image of the boss speaking Japanese to the customer impressed me.*
+ ## 2. What does this meme mean
+ 1. In the picture above, after I served guests, some of them would say goodbye to me in Japanese, which is a simple Japanese sentence that I can understand and respond to.
+ 2. The following picture shows the pain I felt when my boss told me what to do. I could not understand many things because of my poor Japanese hearing.
+## What I learned after working at a sushi restaurant be like:*
 [GitHub](https://github.com/EazerZong/stats220/blob/main/meme.png?raw=true)
 
 ![Octocat](https://github.com/EazerZong/stats220/blob/main/meme.png?raw=true)
