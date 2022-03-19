@@ -1,5 +1,10 @@
  # **Meme -Difficulty of Japanese**
 ## *What I learned after working at a sushi restaurant be like:*
+[GitHub](https://github.com/EazerZong/stats220/blob/main/meme.png?raw=true)
+
+![Octocat](https://github.com/EazerZong/stats220/blob/main/meme.png?raw=true)
+
+## My code be like:
 ```r
 library(magick)
 normal_mr_incredibles <- image_read("https://static.wikia.nocookie.net/meme/images/a/a7/Uncanny_Phase_1.png/revision/latest?cb=20220215044859") %>%
