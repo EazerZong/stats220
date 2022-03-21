@@ -1,5 +1,5 @@
 # **stats220**
-## 1. Why did you create this folder?
+## 1. Why did I create this folder?
 * *This file I want to use to record my STA220 study life.*
 * *I can show my STA220 learning results to teachers, friends and online people.*
 ## 2. Sta220 learning experience
